@@ -1,4 +1,4 @@
-package cn.yrcti.sup.modular.system.service.impl;
+﻿package cn.yrcti.sup.modular.system.service.impl;
 
 import cn.yrcti.sup.base.BaseJunit;
 import cn.yrcti.sup.modular.system.model.Course;
@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 
 /**
  * @author zhaomengyuan
- * @since 2019-1-18
+ * @since  2019-1-18
  */
 
 public class CourseServiceImplTest extends BaseJunit  {
